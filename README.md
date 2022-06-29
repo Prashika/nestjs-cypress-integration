@@ -11,7 +11,7 @@ Installation:
 - ### `npm install cypress`
 
 ## Source Code:
-### Please download/refer: [https://github.com/Prashika/sample-react-app-with-custom-webpack-config.git](https://github.com/Prashika/sample-react-app-with-custom-webpack-config.git)
+### Please download/refer: [https://github.com/Prashika/nestjs-cypress-integration.git](https://github.com/Prashika/nestjs-cypress-integration.git)
 
 ## Steps to run application, run tests:
 
