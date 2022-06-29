@@ -1,6 +1,6 @@
 # nestjs-cypress-integration
+POC that cypress is able to be installed on NestJS based application.\
 Focused on integrating cypress with sample NestJS based application.
-POC that cypress is able to be installed on NestJS based application.
 
 # Implementation:
 
