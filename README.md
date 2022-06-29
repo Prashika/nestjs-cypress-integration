@@ -20,5 +20,6 @@ Installation:
 3. ### `npx cypress open` To run cypress test: (Cypress test runner window will be opened. There select spec.js file to run tests.)
     
 # Reference:
-- [https://docs.cypress.io ](https://docs.cypress.io)
-
+- [https://docs.nestjs.com/#installation](https://docs.nestjs.com/#installation)
+- [https://docs.cypress.io/guides/getting-started/installing-cypress#npm-install](https://docs.cypress.io/guides/getting-started/installing-cypress#npm-install)
+- [https://docs.cypress.io/guides/getting-started/installing-cypress#Operating-System](https://docs.cypress.io/guides/getting-started/installing-cypress#Operating-System)
