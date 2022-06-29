@@ -6,9 +6,9 @@ Focused on integrating cypress with sample NestJS based application
 ## Getting Started with Create React App
 
 Installation: 
-### `npm i -g @nestjs/cli`\
-### `nest new project-name`
-### `npm install cypress`
+- ### `npm i -g @nestjs/cli`\
+- ### `nest new project-name`
+- ### `npm install cypress`
 
 ## Source Code:
 ### Please download/refer: [https://github.com/Prashika/sample-react-app-with-custom-webpack-config.git](https://github.com/Prashika/sample-react-app-with-custom-webpack-config.git)
@@ -20,7 +20,5 @@ Installation:
 3. ### `npx cypress open` To run cypress test: (Cypress test runner window will be opened. There select spec.js file to run tests.)
     
 # Reference:
-- [https://docs.cypress.io/guides/tooling/code-coverage ](https://docs.cypress.io/guides/tooling/code-coverage )
+- [https://docs.cypress.io ](https://docs.cypress.io)
 
-`$ npm i -g @nestjs/cli`\
-`$ nest new project-name`
